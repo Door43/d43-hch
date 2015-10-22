@@ -17,10 +17,7 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 
 [[http://www.ethnologue.com/language/hch|Ethnologue data]]
 
-
 **Resources**
 
   * [[hch:obs|Open Bible Stories (hch)]]
 
-**Latest OBS Status**
-{{page>en:uwadmin:hch:obs:status}}
